@@ -11,5 +11,8 @@
 @interface ViewController : UIViewController
 
 
+
+- (UIImage *)snapshot:(UIView *)view;
+
 @end
 
